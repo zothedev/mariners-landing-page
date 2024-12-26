@@ -1,11 +1,25 @@
+body {
+    font-family: "Roboto", serif;
+}
+
 /* nav */
 
 .nav-container {
+    /* positioning */
     display: flex;
     justify-content: space-between;
     list-style-type: none;
     gap: 15px;
     padding: 10px 200px;
+
+    /* visuals */
+    background-color: #1F2937;
+
+}
+
+.nav-container a {
+    text-decoration: none;
+    color: red;
 }
 
 .logo {
