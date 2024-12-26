@@ -30,6 +30,8 @@ body {
     font-weight: 700;
 }
 
+/* hero */
+
 .hero {
     display: flex;
     justify-content: center;
@@ -70,3 +72,5 @@ body {
     font-size: 18px;
     font-weight: 500;
 }
+
+/* info boxes */
