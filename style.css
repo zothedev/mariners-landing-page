@@ -15,12 +15,12 @@ body {
 
     /* visuals */
     background-color: #1F2937;
-
 }
 
 .nav-container a {
     text-decoration: none;
     color: #E5E7EB;
+    font-size: 18px;
 }
 
 #logo {
@@ -28,4 +28,45 @@ body {
     font-size: 24px;
     color: #F9FAF8;
     font-weight: 700;
+}
+
+.hero {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    padding: 100px 15%;
+    gap: 20px;
+}
+
+.hero-content {
+    display: flex;
+    flex-direction: column;
+    color: #E5E7EB;
+    font-size: 18px;
+    padding: 20px;
+    flex: 0 1 500px;
+    gap: 15px;
+}
+
+.hero-content h1 {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+    line-height: 1.2;
+}
+
+.hero-image {
+    width: 500;
+    height: auto;
+}
+
+.hero-content button {
+    background-color: #3882F6;
+    color: #E5E7EB;
+    border-radius: 12px;
+    border: 2px white solid;
+    width: 150px;
+    font-size: 18px;
+    font-weight: 500;
 }
