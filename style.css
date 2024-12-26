@@ -9,8 +9,9 @@ body {
     display: flex;
     justify-content: space-between;
     list-style-type: none;
-    gap: 15px;
-    padding: 10px 200px;
+    gap: 20px;
+    padding: 16px 200px;
+    align-items: center;
 
     /* visuals */
     background-color: #1F2937;
@@ -19,9 +20,12 @@ body {
 
 .nav-container a {
     text-decoration: none;
-    color: red;
+    color: #E5E7EB;
 }
 
-.logo {
+#logo {
     margin-right: auto;
+    font-size: 24px;
+    color: #F9FAF8;
+    font-weight: 700;
 }
