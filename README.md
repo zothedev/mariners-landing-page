@@ -7,19 +7,19 @@ In this project, I'm tasked with creating a landing page website from scratch us
 
 This project is my first experience creating a website with no template or starting code. 
 
-The `desired-outcome.png` features dummy images and text but I chose to theme this website around my favorite baseball team. This is why the colors and positioning of some elements. The Odin Project makes it clear that I should not concern myself with making sure my website is pixel-perfect with the `desired-outcome.png` image.
+The `desired-outcome.png` features dummy images and text but I chose to theme this website around my favorite baseball team. This is why the colors and positioning of some elements are different than the reference image. The Odin Project makes it clear that I should not concern myself with making sure my website is pixel-perfect with the `desired-outcome.png` image.
 
 ## Skills Demonstrated:
 
 In this project, I demonstrated my understanding of HTML, CSS, Structuring files within a website, and Git.
 
-A big challenge with this project was taking the CSS flexbox knowledge from previous Odin Project lessons into play. While I did work on flexbox exercises, creating a full website using flexbox for the first time is a whole different beast. I do feel very good with flexbox now! However there is certainly more room to grow.
+A big challenge with this project was putting my CSS flexbox knowledge from previous Odin Project lessons into play. While I did work on flexbox exercises, creating a full website using flexbox for the first time is a whole different beast. I do feel very good with flexbox now! However there is certainly more room to grow.
 
 Additionally, I tried very hard to commit early and commit often using Git. I know that keeping good Git habits will only strengthen my developing and collaborating skills.
 
 ## Image Credit
 
-1. Hero Image
+1. Hero Image\
 Title: Seattle Mariners.JPG
 Author: Galaksiafervojo
 Source: "Own Work" https://commons.wikimedia.org/wiki/File:Seattle_Mariners.JPG
