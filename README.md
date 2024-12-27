@@ -23,28 +23,28 @@ Additionally, I tried very hard to commit early and commit often using Git. I kn
 Title: Seattle Mariners.JPG\
 Author: Galaksiafervojo\
 Source: "Own Work" https://commons.wikimedia.org/wiki/File:Seattle_Mariners.JPG \
-License: https://creativecommons.org/licenses/by-sa/3.0/deed.en \
+License: https://creativecommons.org/licenses/by-sa/3.0/deed.en 
 
 2. Info Image 1\
 Title: Colome Delivers\
 Author: kirknelson https://www.flickr.com/photos/35423702@N08/ \
 Source: https://www.flickr.com/photos/35423702@N08/17945315244 \
-License: https://creativecommons.org/licenses/by-nc-sa/2.0/ \
+License: https://creativecommons.org/licenses/by-nc-sa/2.0/ 
 
 3. Info Image 2\
 Title: MarinerMooseFlag.jpg\
 Author: Cacophony https://commons.wikimedia.org/wiki/User:Cacophony \
 Source: "Own Work" https://commons.wikimedia.org/wiki/File:MarinerMooseFlag.jpg \
-License: https://creativecommons.org/licenses/by-sa/3.0/deed.en \
+License: https://creativecommons.org/licenses/by-sa/3.0/deed.en 
 
 4. Info Image 3\
 Title: A tray of chips and a drink at a baseball game. Dodgers dodgers stadium food, food drink.\
 Author: Pixabay\
 Source: pixabay.com https://boudewijnhuijgens.getarchive.net/media/dodgers-dodgers-stadium-food-food-drink-e3e697 \
-License: https://creativecommons.org/publicdomain/zero/1.0/ \
+License: https://creativecommons.org/publicdomain/zero/1.0/ 
 
 5. Info Image 4\
 Title: beautiful Sunday for a ballgame\
 Author: stevebanfield https://www.flickr.com/photos/sbanfield/ \
 Source: https://www.flickr.com/photos/sbanfield/51126132198 \
-License: https://creativecommons.org/licenses/by-nd/2.0/ \
+License: https://creativecommons.org/licenses/by-nd/2.0/ 
