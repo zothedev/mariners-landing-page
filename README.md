@@ -1,6 +1,6 @@
 # The Odin Project 2 - Landing Page Project
 
-*Note: This website is not meant to look good on mobile devices. Responsive design will be a future lesson in The Odin Project's Curriculum. 
+*Note: This website is not meant to look good on mobile devices. Responsive design will be a future lesson in The Odin Project's Curriculum.*
 
 ## Project Description:
 In this project, I'm tasked with creating a landing page website from scratch using a desired-result image (found in `desired_result/desired-outcome.png`). 
@@ -48,6 +48,3 @@ Title: beautiful Sunday for a ballgame
 Author: stevebanfield https://www.flickr.com/photos/sbanfield/
 Source: https://www.flickr.com/photos/sbanfield/51126132198
 License: https://creativecommons.org/licenses/by-nd/2.0/
-
-### TODO List:
-- Change color theme to fit mariners colors
