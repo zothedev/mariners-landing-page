@@ -79,3 +79,18 @@ a {
 }
 
 /* info boxes */
+
+.info-boxes {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+
+}
+
+.box {
+    display: flex;
+    flex-flow: wrap column;
+    width: 15%;
+    text-align: center;
+    
+}
