@@ -145,3 +145,43 @@ a {
     color: #1F2937;
     font-size: 25px;
 }
+
+/* call to action section */
+
+.call-to-action-section {
+    padding: 150px;
+    color: white;
+}
+
+.call-to-action-box {
+    background-color: #3882F6;
+    border-radius: 10px;
+    padding: 50px;
+
+    display: flex;
+    justify-content: space-around;
+}
+
+.call-to-action-section h3 {
+    font-size: 24px;
+}
+
+.call-to-action-section p {
+    font-weight: 300;
+}
+
+.call-to-action-section button {
+    background-color: #3882F6;
+    border: white 3px solid;
+    color: white;
+    border-radius: 10px;
+    padding: 0 15px;
+}
+
+.call-to-action-box a {
+    text-decoration: none;
+    display: block;
+    height: 30px;
+    text-align: center;
+    color: white;
+}
