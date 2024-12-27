@@ -1,6 +1,6 @@
 # The Odin Project 2 - Landing Page Project
 
-<a href="https://zothedev.github.io/mariners-landing-page/" target="_blank">Preview Website in New Tab</a>
+[Preview Website](https://zothedev.github.io/mariners-landing-page/) (opens in current tab by default)
 
 *Note: This website is not meant to look good on mobile devices. Responsive design will be a future lesson in The Odin Project's Curriculum.*
 
